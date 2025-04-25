@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "afziqrpw/5M=",
+  "success": true,
+  "projectFilePath": "D:\\Project\\github projects\\chat-app\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GaneshChaudhari\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\GaneshChaudhari\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
